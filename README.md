@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hola! mi nombre es Roy Favio, Desarrollador Full Stack especializado en el desarrollo móvil con Flutter
 
-<!--
-**rofviv/rofviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~~ javascript
+const rofviv = {
+   experience: "More than 3 years",
+   code: {
+      mobile: ["Flutter"],
+      web: ["VueJS", "Quasar framework", "HTML"],
+      backend: ["NodeJS", "PHP", "Go", "Python"],
+      databases: ["MySQL", "MongoDB"],
+   },
+   skills: ["Figma", "Github", "Docker", "Firebase", "Application deployment"],
+};
+~~~
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Algunos de mis trabajos:**
