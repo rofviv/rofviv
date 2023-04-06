@@ -1,7 +1,7 @@
-## Hola! mi nombre es Roy Favio, Desarrollador Full Stack especializado en el desarrollo móvil con Flutter
+## Hello! 👋🏼 My name is Roy Favio. I am a flutter developer
 
 ```javascript
-const rofviv = {
+const aboutMe = {
   experience: "More than 3 years",
   code: {
     mobile: ["Flutter"],
@@ -9,11 +9,12 @@ const rofviv = {
     backend: ["NodeJS", "PHP", "Go", "Python"],
     databases: ["MySQL", "MongoDB"],
   },
-  skills: ["Figma", "Github", "Docker", "Firebase", "Application deployment"],
+  skills: ["Firebase", "Figma", "Docker", "Filezilla", "Azure", "Application deployment"],
+  language: ["Spanish"],
 };
 ```
 
-#### Works:
+#### Some works:
 
 <p>
    <img
