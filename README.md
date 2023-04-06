@@ -1,4 +1,4 @@
-## Hello! 👋🏼 My name is Roy Favio. I am a flutter developer
+## Hello! 👋🏼 My name is Roy Favio. I am a flutter developer | Full stack
 
 ```javascript
 const aboutMe = {
