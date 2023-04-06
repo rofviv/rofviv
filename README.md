@@ -1,16 +1,18 @@
-## Hello! 👋🏼 My name is Roy Favio. I am a flutter developer | Full stack
+## Hello! 👋🏼 My name is Roy Favio. I am a Flutter developer | Full stack
 
 ```javascript
 const aboutMe = {
   experience: "More than 3 years",
   code: {
     mobile: ["Flutter"],
-    web: ["VueJS", "Quasar framework", "HTML"],
+    web: ["VueJS", "Quasar framework", "HTML & Css", "JavaScript"],
     backend: ["NodeJS", "PHP", "Go", "Python"],
     databases: ["MySQL", "MongoDB"],
+    desktop: ["Java SE"]
   },
   skills: ["Firebase", "Figma", "Docker", "Filezilla", "Azure", "Application deployment"],
-  language: ["Spanish"],
+  os: ["Windows", "GNU/Linux", "MacOS"],
+  language: ["Spanish"]
 };
 ```
 
