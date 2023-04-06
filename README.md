@@ -15,4 +15,4 @@ const rofviv = {
 
 #### Algunos de mis trabajos:
 
-<iframe src="https://raw.githubusercontent.com/rofviv/rofviv/main/projects.html" width="100%" height="600"></iframe>
+<iframe src="./projects.html" width="100%" height="600"></iframe>
