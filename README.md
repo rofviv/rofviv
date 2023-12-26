@@ -16,6 +16,10 @@ const aboutMe = {
 };
 ```
 
+#### Quick links:
+[Dribbble](https://dribbble.com/rofviv).
+[Linkedin](https://www.linkedin.com/in/roy-favio-villarroel/).
+
 #### Some works:
 <p>
    <img
