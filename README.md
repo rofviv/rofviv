@@ -41,7 +41,7 @@ const aboutMe = {
       alt="quickdrop-banner"
       width="49%"
       style="border-radius: 10px;"
-      src="https://github.com/rofviv/rofviv/blob/main/assets/quickdrop/quickdrop-banner.png?raw=true"
+      src="https://github.com/rofviv/rofviv/blob/main/assets/quickdrop/Quickdrop.png?raw=true"
    />
    &nbsp;&nbsp;
    <img
