@@ -4,7 +4,7 @@
 const aboutMe = {
   experience: "More than 3 years",
   code: {
-    mobile: ["Flutter"],
+    mobile: ["Flutter", "Android", "Swift"],
     web: ["VueJS", "Quasar framework", "HTML & Css", "JavaScript"],
     backend: ["NodeJS", "PHP", "Go", "Python"],
     databases: ["MySQL", "MongoDB"],
@@ -17,6 +17,23 @@ const aboutMe = {
 ```
 
 #### Some works:
+<p>
+   <img
+      align="center"
+      alt="meddefend-banner"
+      width="49%"
+      style="border-radius: 10px;"
+      src="https://github.com/rofviv/rofviv/blob/main/assets/meddefend/Meddefend.png?raw=true"
+   />
+   &nbsp;&nbsp;
+   <img
+      align="center"
+      alt="vantage-banner"
+      width="49%"
+      style="border-radius: 10px;"
+      src="https://github.com/rofviv/rofviv/blob/main/assets/vantage/vantage-banner.png?raw=true"
+   />
+</p>
 
 <p>
    <img
@@ -53,3 +70,4 @@ const aboutMe = {
       src="https://github.com/rofviv/rofviv/blob/main/assets/mr-cash/mr-cash-banner.png?raw=true"
    />
 </p>
+
