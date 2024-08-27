@@ -2,12 +2,12 @@
 
 ```javascript
 const aboutMe = {
-  experience: "More than 3 years",
+  experience: "More than 4 years",
   code: {
     mobile: ["Flutter", "Android", "Swift"],
     web: ["VueJS", "Quasar framework", "HTML & Css", "JavaScript"],
-    backend: ["NodeJS", "PHP", "Go", "Python"],
-    databases: ["MySQL", "MongoDB"],
+    backend: ["Django", "NodeJS", "PHP", "Go", "Python"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
     desktop: ["Java SE"]
   },
   skills: ["Firebase", "Figma", "Docker", "Filezilla", "Azure", "Application deployment"],
