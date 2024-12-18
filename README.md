@@ -2,7 +2,7 @@
 
 ```javascript
 const aboutMe = {
-  experience: "More than 4 years",
+  experience: "More than 5 years",
   code: {
     mobile: ["Flutter", "Android", "Swift"],
     web: ["VueJS", "Quasar framework", "HTML & Css", "JavaScript"],
